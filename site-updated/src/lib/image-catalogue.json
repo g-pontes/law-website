@@ -1,0 +1,20 @@
+{
+  "hero": { "id": 18192562, "width": 1920, "height": 1280, "alt": "Figura junto a janelas de um edifício contemporâneo, em fotografia ilustrativa", "credit": "Connor Scott McManus" },
+  "menu-atuacao": { "id": 32466569, "width": 1200, "height": 800, "alt": "Arquitetura brutalista de concreto em preto e branco" },
+  "menu-sobre": { "id": 34123725, "width": 900, "height": 1200, "alt": "Retrato ilustrativo de uma mulher em traje social" },
+  "menu-insights": { "id": 36207460, "width": 1200, "height": 800, "alt": "Volumes encadernados em biblioteca" },
+  "menu-contato": { "id": 16960660, "width": 1200, "height": 800, "alt": "Skyline de São Paulo ao entardecer" },
+  "empresarial": { "id": 3188582, "width": 1000, "height": 667, "alt": "Fachada brutalista com vidro refletivo" },
+  "contratos": { "id": 14819805, "width": 1000, "height": 667, "alt": "Livros antigos alinhados em prateleira de madeira" },
+  "civil": { "id": 2191622, "width": 1000, "height": 714, "alt": "Estrutura de concreto minimalista em preto e branco" },
+  "patrimonial": { "id": 7045766, "width": 1000, "height": 667, "alt": "Corredor de mármore em interior contemporâneo" },
+  "familia": { "id": 8134773, "width": 1000, "height": 667, "alt": "Interior com portas de madeira e luz natural" },
+  "portrait": { "id": 33785331, "width": 1000, "height": 1400, "alt": "Retrato editorial ilustrativo de uma mulher em blazer cinza" },
+  "about-detail": { "id": 15779815, "width": 900, "height": 600, "alt": "Detalhe geométrico de uma fachada contemporânea" },
+  "city": { "id": 25757821, "width": 1920, "height": 1280, "alt": "Vista panorâmica de uma paisagem urbana, em fotografia ilustrativa" },
+  "work-01": { "id": 27665381, "width": 1200, "height": 1500, "alt": "Escada helicoidal em interior contemporâneo" },
+  "work-02": { "id": 38240592, "width": 1200, "height": 1500, "alt": "Vista superior de escada de mármore e piso geométrico" },
+  "work-03": { "id": 39279388, "width": 1200, "height": 1500, "alt": "Duas pessoas conversando em um espaço arquitetônico amplo" },
+  "insights": { "id": 14747971, "width": 1200, "height": 800, "alt": "Livros encadernados em estantes de biblioteca" },
+  "contact": { "id": 31543376, "width": 1600, "height": 1067, "alt": "Vista aérea de São Paulo" }
+}
